@@ -6,7 +6,7 @@ categories: mushrooms
 author: oli
 ---
 
-After [my last mushroom post]({% post_url 2015-08-20-mushrooms %}) by old mate Ali got in touch
+After [my last mushroom post]({% post_url 2015-08-20-mushrooms %}) my old mate Ali got in touch
 
 > This with added cream and brandy and tarragon in the place of parsley is my go to starter for dinners. That and late suppers. Or any time
 
